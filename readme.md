@@ -34,7 +34,7 @@ This repo serves as a foundation for testing AI text-to-SQL capabilities using a
 ├── queries
 │   └── sample text prompts with expected SQL results 
 └── schema
-    └──  SQL to create and populate the database schema
+    └── SQL to create and populate the database schema
 ```
 
 # 📚 Schema Overview
